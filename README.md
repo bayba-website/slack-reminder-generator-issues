@@ -1,1 +1,1 @@
-# slack-reminder-generator-issues
+Please help to report issue of Slack reminder generator
